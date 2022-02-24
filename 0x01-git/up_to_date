@@ -1,1 +1,2 @@
 echo 'mkdir up_to_date'
+"git pull"
